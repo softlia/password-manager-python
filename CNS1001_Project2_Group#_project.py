@@ -1,3 +1,18 @@
+# ==========================================================
+# COURSE: CNS1001 - Contemporary Programming 
+# PROJECT: Project 2 - Password Manager GUI App 
+# SEMESTER: Semester 2, 2026 
+# INSTRUCTOR: Wayne Thompson 
+# 
+# GROUP MEMBERS & IDs:
+# 1. Aleisha Fuller (2503042)
+# 2. Anthony Demetrius (2502004)
+# 3. Joshua Tyrrel (2506464)
+# 4. Mikhiel Miller (2506699)
+# 5. Okay-Lia Buchanan (2506017)
+# 6. Paul Duncanson (2506019)
+# ==========================================================
+
 """
 Password Manager — inspired by Dr. Angela Yu's 100 Days of Code
 Built with tkinter GUI, random password generator, and JSON storage.
